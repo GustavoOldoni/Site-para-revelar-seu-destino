@@ -1,0 +1,19 @@
+    body{
+        background-color: black;
+        color: white;
+        text-align: center;
+        font-family: sans-serif;
+
+    }
+
+    img{
+        margin-top: 100px;
+    }
+
+
+    #container {
+        width: 50%;
+        max-width: 488px;
+        margin-inline: auto;
+        
+    }
